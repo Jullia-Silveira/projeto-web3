@@ -3,7 +3,6 @@ const router = express.Router();
 const vehiclesCtrl = require("../controllers/vehicles");
 
 
-
 //cadastrar um veiculo
 router.post("/", vehiclesCtrl.createOne);
 

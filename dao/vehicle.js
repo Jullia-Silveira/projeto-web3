@@ -44,4 +44,4 @@ class Vehicle {
   }
 }
 
-//module.exports = new Vehicle();
+module.exports = new Vehicle();
